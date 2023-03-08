@@ -1,0 +1,74 @@
+/**
+margin
+border
+padding
+content
+*/
+
+
+body{
+    background-color: grey;
+    text-align: left;
+}
+
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+main{
+    border: solid;
+    border-color: darkblue;
+    text-align: left;
+    margin-bottom: 20px;
+
+}
+
+div{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.miclase{
+    color: rgb(206, 134, 66);
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+#camara{
+    margin-left: 40px;
+}
+ 
+#experiencias{
+    font-size: larger;
+    font-weight: bolder;
+    text-transform: uppercase;
+    
+}
+p{
+    color: rgb(124, 21, 21);
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(124, 21, 21);
+    border: solid 8px;
+    margin: 20px;
+    padding: 10px;
+    content: 30px;
+}
+
+h2{
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+span{
+    color: purple;
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+a , h3{
+    background-color: white;
+}
