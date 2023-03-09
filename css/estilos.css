@@ -7,7 +7,7 @@ content
 
 
 body{
-    background-color: grey;
+    background-color: rgb(201, 196, 196);
     text-align: left;
 }
 
@@ -31,6 +31,11 @@ div{
     color: rgb(206, 134, 66);
     font-size: 20px;
     text-transform: capitalize;
+}
+
+.enlaces{
+    font-size: large;
+    font-weight: bold;
 }
 
 #camara{
@@ -71,4 +76,9 @@ span{
 
 a , h3{
     background-color: white;
+}
+
+footer{
+    border: solid;
+    padding: 10px;
 }
